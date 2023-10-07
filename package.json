@@ -89,7 +89,7 @@
     "husky": "^8.0.3",
     "linkfree-cli": "^2.2.2",
     "ncp": "^2.0.0",
-    "postcss": "^8.4.21",
+    "postcss": "^8.4.31",
     "prettier": "^2.8.7",
     "storybook": "^7.0.2",
     "storybook-dark-mode": "^3.0.0"
